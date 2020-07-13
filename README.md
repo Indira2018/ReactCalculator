@@ -1,3 +1,7 @@
+![alt text](https://github.com/Indira2018/ReactCalculator/blob/master/ReactCalculatorpage.jpg?raw=true)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
