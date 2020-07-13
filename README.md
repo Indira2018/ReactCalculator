@@ -1,4 +1,4 @@
-![alt text](https://github.com/Indira2018/ReactCalculator/blob/master/ReactCalculatorpage.jpg?raw=true)
+https://github.com/Indira2018/ReactCalculator/blob/master/ReactCalculatorpage.JPG
 
 
 
